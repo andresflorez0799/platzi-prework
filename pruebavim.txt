@@ -1,0 +1,7 @@
+<div><h1>Estp es un titulo que escribi desde vim en bash</h1></div>
+: = se usa para guardar
+wq = se usa para guardar y salir
+qa
+wq
+wq
+
